@@ -1,0 +1,176 @@
+2020-08-23 18:29:57 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:31:07 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:31:07 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:31:07 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:31:07 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:32:06 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:32:06 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:32:06 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:32:06 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:35:25 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:35:25 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:35:25 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:35:25 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:43:26 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:43:26 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:43:26 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:43:26 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:45:58 INFO  LoggerHelper :24 -logger is configured
+2020-08-23 18:45:58 INFO  LoggerHelper :25 -logger is configured
+2020-08-23 18:45:58 INFO  LoggerHelper :26 -logger is configured
+2020-08-23 18:47:02 INFO  LoggerHelper :24 -logger is configured
+2020-08-23 18:47:02 INFO  LoggerHelper :25 -logger is configured
+2020-08-23 18:47:02 INFO  LoggerHelper :26 -logger is configured
+2020-08-23 18:47:02 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:47:02 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 1 times.
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:47:02 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 2 times.
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:47:02 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:47:02 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 1 times.
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:47:02 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 2 times.
+2020-08-23 18:47:02 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:42 INFO  LoggerHelper :24 -logger is configured
+2020-08-23 18:49:42 INFO  LoggerHelper :25 -logger is configured
+2020-08-23 18:49:42 INFO  LoggerHelper :26 -logger is configured
+2020-08-23 18:49:43 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:43 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 1 times.
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:43 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 2 times.
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:43 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:43 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 1 times.
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:49:43 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 2 times.
+2020-08-23 18:49:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  LoggerHelper :26 -logger is configured
+2020-08-23 18:52:27 INFO  LoggerHelper :27 -logger is configured
+2020-08-23 18:52:27 INFO  LoggerHelper :28 -logger is configured
+2020-08-23 18:52:27 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 1 times.
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 2 times.
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 1 times.
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:52:27 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 2 times.
+2020-08-23 18:52:27 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 1 times.
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  Retry :16 -Retrying test testLogin2 with status FAILUREfor the 2 times.
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  AssertionHelper :17 -making test PASS..
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 1 times.
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-23 18:53:45 INFO  Retry :16 -Retrying test testLogin4 with status FAILUREfor the 2 times.
+2020-08-23 18:53:45 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 08:45:59 INFO  MuraliBase :115 -Initialize web driver : 1263634860
+2020-08-24 08:45:59 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 08:45:59 INFO  WaitHelper :139 -waiting for page to load for : SECONDS seconds
+2020-08-24 08:45:59 INFO  WaitHelper :141 -page is loaded
+2020-08-24 08:49:35 INFO  MuraliBase :115 -Initialize web driver : 1884155890
+2020-08-24 08:49:35 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 08:49:35 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 08:49:35 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:07:31 INFO  MuraliBase :115 -Initialize web driver : 170949260
+2020-08-24 11:07:31 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:07:31 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:07:31 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:07:32 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:07:32 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:07:32 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:07:33 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:08:52 INFO  MuraliBase :115 -Initialize web driver : 170949260
+2020-08-24 11:08:52 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:08:52 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:08:52 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:08:53 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:08:53 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:08:53 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:08:53 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:14:58 INFO  MuraliBase :115 -Initialize web driver : 170949260
+2020-08-24 11:14:58 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:14:58 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:14:58 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:15:00 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:15:00 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:15:00 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 11:15:00 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 11:31:19 INFO  MuraliBase :120 -Initialize web driver : 170949260
+2020-08-24 11:31:19 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:31:19 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:31:19 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:34:10 INFO  MuraliBase :120 -Initialize web driver : 28094269
+2020-08-24 11:34:10 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:34:10 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:34:10 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:49:27 INFO  ExtentListener :56 -TestScreenshot Test Started..
+2020-08-24 11:49:31 INFO  MuraliBase :120 -Initialize web driver : 1703696921
+2020-08-24 11:49:31 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:49:31 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:49:31 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:49:32 INFO  ExtentListener :23 -testSCreenshot Test Started..
+2020-08-24 11:49:35 INFO  ExtentListener :29 -testSCreenshot Test Passed..
+2020-08-24 11:49:36 INFO  ExtentListener :62 -TestScreenshot Test Finished..
+2020-08-24 11:55:01 INFO  ExtentListener :56 -TestScreenshot Test Started..
+2020-08-24 11:55:06 INFO  MuraliBase :120 -Initialize web driver : 110651474
+2020-08-24 11:55:06 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 11:55:06 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 11:55:06 INFO  WaitHelper :141 -page is loaded
+2020-08-24 11:55:07 INFO  ExtentListener :23 -testSCreenshot Test Started..
+2020-08-24 11:55:10 INFO  ExtentListener :29 -testSCreenshot Test Passed..
+2020-08-24 11:55:10 INFO  ExtentListener :62 -TestScreenshot Test Finished..
+2020-08-24 12:56:19 INFO  MuraliBase :128 -Initialize web driver : 932582590
+2020-08-24 12:56:19 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 12:56:19 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 12:56:19 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:00:41 INFO  MuraliBase :128 -Initialize web driver : 2112233878
+2020-08-24 13:00:41 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 13:00:41 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 13:00:41 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:00:42 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:00:42 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:00:43 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:00:43 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:00:43 INFO  MuraliBase :137 -driver is null
+2020-08-24 13:15:04 INFO  MuraliBase :128 -Initialize web driver : 2112233878
+2020-08-24 13:15:04 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 13:15:04 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 13:15:04 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:15:05 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:15:05 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:15:06 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:15:06 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:15:06 INFO  MuraliBase :137 -driver is null
+2020-08-24 13:15:36 INFO  MuraliBase :128 -Initialize web driver : 2112233878
+2020-08-24 13:15:36 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 13:15:36 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 13:15:36 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:15:38 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:15:38 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:15:38 INFO  AssertionHelper :17 -making test PASS..
+2020-08-24 13:15:39 INFO  AssertionHelper :27 -making test FAIL..
+2020-08-24 13:15:39 INFO  MuraliBase :137 -driver is null
+2020-08-24 13:16:49 INFO  MuraliBase :128 -Initialize web driver : 110651474
+2020-08-24 13:16:49 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 13:16:49 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 13:16:49 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:21:03 INFO  ExtentListener :56 -TestScreenshot Test Started..
+2020-08-24 13:21:07 INFO  MuraliBase :128 -Initialize web driver : 1818339587
+2020-08-24 13:21:07 INFO  WaitHelper :35 -Implicit Wait has been set to: 30
+2020-08-24 13:21:08 INFO  WaitHelper :139 -waiting for page to load for : 30 seconds
+2020-08-24 13:21:08 INFO  WaitHelper :141 -page is loaded
+2020-08-24 13:21:09 INFO  ExtentListener :23 -testSCreenshot Test Started..
+2020-08-24 13:21:10 INFO  ExtentListener :29 -testSCreenshot Test Passed..
+2020-08-24 13:21:12 INFO  ExtentListener :62 -TestScreenshot Test Finished..

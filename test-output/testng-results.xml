@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TestScreenshot Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[testSCreenshot Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\My_Automation\PageObjectFramework\screenshots\googlescreen_08_24_2020_13_21_10.png'><img src='C:\My_Automation\PageObjectFramework\screenshots\googlescreen_08_24_2020_13_21_10.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testSCreenshot Test Passed..]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\My_Automation\PageObjectFramework\screenshots\testSCreenshot_08_24_2020_13_21_10.png'><img src='C:\My_Automation\PageObjectFramework\screenshots\testSCreenshot_08_24_2020_13_21_10.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="8136" started-at="2020-08-24T13:21:03 CDT" finished-at="2020-08-24T13:21:12 CDT">
+    <groups>
+    </groups>
+    <test name="TestScreenshot" duration-ms="8136" started-at="2020-08-24T13:21:03 CDT" finished-at="2020-08-24T13:21:12 CDT">
+      <class name="com.murali.pom.tests.TestScreenshot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="beforeSuite" is-config="true" duration-ms="130" started-at="2020-08-24T13:21:03 CDT" finished-at="2020-08-24T13:21:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="beforeTest" is-config="true" duration-ms="5291" started-at="2020-08-24T13:21:03 CDT" finished-at="2020-08-24T13:21:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="beforeClass" is-config="true" duration-ms="5" started-at="2020-08-24T13:21:09 CDT" finished-at="2020-08-24T13:21:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="beforeMethod" is-config="true" duration-ms="9" started-at="2020-08-24T13:21:09 CDT" finished-at="2020-08-24T13:21:09 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.murali.pom.tests.TestScreenshot.testSCreenshot()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testSCreenshot()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="testSCreenshot" duration-ms="1606" started-at="2020-08-24T13:21:09 CDT" finished-at="2020-08-24T13:21:10 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[testSCreenshot Test Started..]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\My_Automation\PageObjectFramework\screenshots\googlescreen_08_24_2020_13_21_10.png'><img src='C:\My_Automation\PageObjectFramework\screenshots\googlescreen_08_24_2020_13_21_10.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testSCreenshot Test Passed..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testSCreenshot -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="afterMethod" is-config="true" duration-ms="332" started-at="2020-08-24T13:21:10 CDT" finished-at="2020-08-24T13:21:11 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSCreenshot status=SUCCESS method=TestScreenshot.testSCreenshot()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef] output=testSCreenshot Test Started..]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\My_Automation\PageObjectFramework\screenshots\testSCreenshot_08_24_2020_13_21_10.png'><img src='C:\My_Automation\PageObjectFramework\screenshots\testSCreenshot_08_24_2020_13_21_10.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="afterTest" is-config="true" duration-ms="827" started-at="2020-08-24T13:21:11 CDT" finished-at="2020-08-24T13:21:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.murali.pom.tests.TestScreenshot@44c8afef]" name="afterSuite" is-config="true" duration-ms="375" started-at="2020-08-24T13:21:12 CDT" finished-at="2020-08-24T13:21:12 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.murali.pom.tests.TestScreenshot -->
+    </test> <!-- TestScreenshot -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
